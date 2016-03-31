@@ -1,0 +1,38 @@
+Pryecto:
+Crear mi primer blog usando Django
+
+¿Qué elemntos necesito para crear un blog?
+¿Qué elementos intervienen en un blog?
+Tenemos entradas, post, publicaciones o artículos; perfiles o administración de usuarios
+Comentarios, puntuaciones, multimedia, suscripciones, historial, redes sociales
+Funcionalidades adicionales: Encuestas, chat, mensajes privados
+Entidades u objetos definidos:
+	- Post 
+		¿Se pueden crear post en borrador?
+	- Usuarios
+		- Usuario administrador
+		- Otros
+Definición de los objetos:
+
+Post
+
+	- Fecha/hora de creación
+	- Autor
+	- Título
+	- Categoría
+	- Contenido
+	- Comentarios
+	- Idioma
+	- Estado de publicación
+
+Acciones
+
+	- Compartir()
+	- Crear()
+	- Publicar()
+	- Editar()
+	- Borrar()
+
+Usuarios
+
+(Terminado)
